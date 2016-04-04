@@ -2,7 +2,5 @@
     "name": "marco/v-card-parser",
     "description": "a simple vcard parser",
     "minimum-stability": "dev",
-    "require": {
-        "php": ">=5.3.0"
-    },
+    "require": {},
 }
