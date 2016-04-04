@@ -1,6 +1,4 @@
 {
-    "name": "marco/v-card-parser",
-    "description": "a simple vcard parser",
-    "minimum-stability": "dev",
-    "require": {},
+    "name": "cobyan/v-card-parser",
+    "description": "a simple vcard parser"
 }
